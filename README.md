@@ -5,8 +5,6 @@ Pir Scanner is a lightweight, high-performance Bash-based infrastructure scannin
 The project focuses on discovering, validating, and benchmarking infrastructure endpoints across global cloud providers, CDN networks, and Iranian data center infrastructure. With a fast parallel scanning engine and intelligent result ranking, Pir Scanner helps identify responsive and low-latency network endpoints efficiently.
 
 
-============================================================================
-
 ## 📸 Preview
 
 <p align="center">
@@ -15,8 +13,6 @@ The project focuses on discovering, validating, and benchmarking infrastructure 
 </p>
 
 
-
-============================================================================
 
 ## 🚀 Quick Install
 
@@ -31,14 +27,13 @@ bash <(curl -sL https://raw.githubusercontent.com/PirMorshed/Pir-Scanner/main/Pi
 ```
 
 
-============================================================================
 
 
-🔹 توضیح کامل‌تر فارسی Pir Scanner
+## 🔹 توضیح کامل‌تر فارسی Pir Scanner
 
 اسکریپن Pir Scanner یک ابزار سبک، سریع و مبتنی بر Bash برای تحلیل و بررسی زیرساخت‌های شبکه است که برای مهندسان شبکه، پژوهشگران امنیت و مدیران سیستم طراحی شده است. این ابزار امکان اسکن و ارزیابی انواع زیرساخت‌های ابری، CDN و دیتاسنترها را با سرعت بالا و به‌صورت موازی فراهم می‌کند.
 
-⚡ قابلیت‌ها و کارایی‌ها:
+### ⚡ قابلیت‌ها و کارایی‌ها:
 شناسایی و بررسی سریع IPها و رنج‌های شبکه‌ای
 اسکن موازی برای افزایش سرعت پردازش
 اندازه‌گیری و مقایسه تأخیر (Latency) بین سرورها
@@ -52,7 +47,7 @@ bash <(curl -sL https://raw.githubusercontent.com/PirMorshed/Pir-Scanner/main/Pi
 قابل اجرا روی لینوکس، VPS و سرورهای ابری
 
 
-🎯 کاربردها:
+### 🎯 کاربردها:
 تحلیل و پایش زیرساخت‌های اینترنتی
 تست سرعت و کیفیت مسیرهای شبکه
 انتخاب بهترین سرور از نظر latency
@@ -62,42 +57,65 @@ bash <(curl -sL https://raw.githubusercontent.com/PirMorshed/Pir-Scanner/main/Pi
 
 
 
-============================================================================
-
   
-⚡ Features
+## ⚡ Features
 🚀 Parallel Scanning Engine
+
 High-speed concurrent infrastructure scanning
+
 Optimized for large IP ranges
+
 Rapid endpoint discovery and validation
+
 Efficient resource utilization
+
 📊 Smart Latency Analysis
+
 Real-time latency measurement
+
 Automatic ranking based on response time
+
 Quality-focused result presentation
+
 Easy identification of low-latency endpoints
+
 🌐 Infrastructure Intelligence
+
 Cloud and CDN infrastructure analysis
+
 Infrastructure reachability verification
+
 Timeout and connectivity detection
+
 Network responsiveness evaluation
+
 🎨 Interactive Terminal Interface
+
 Clean menu-driven workflow
+
 Colorized provider categories
+
 Real-time progress reporting
+
 Structured and readable output
+
 🪶 Lightweight & Portable
+
 Pure Bash implementation
+
 Minimal dependencies
+
 Linux-friendly design
+
 Easy deployment on servers and VPS environments
+
 🌍 Infrastructure Coverage
+
 Global Cloud & CDN Providers
 
 
-============================================================================
 
-Supported infrastructure includes:
+## Supported infrastructure includes:
 
 🌍 Cloudflare Edge Network
 
@@ -114,12 +132,11 @@ Supported infrastructure includes:
 🇮🇷 Iranian Data Center Infrastructure
 
 
-============================================================================
 
 
-Pir Scanner includes curated infrastructure ranges from major Iranian data centers, cloud providers, hosting companies, and backbone networks.
+## Pir Scanner includes curated infrastructure ranges from major Iranian data centers, cloud providers, hosting companies, and backbone networks.
 
-Supported infrastructure includes:
+### Supported infrastructure includes:
 
 🇮🇷 ArvanCloud
 
@@ -144,9 +161,6 @@ Supported infrastructure includes:
 🇮🇷 Focused on infrastructure, cloud, hosting, CDN, and data center networks rather than consumer broadband address pools.
 
 
-
-
-============================================================================
 
 
 ## 🤝 Contributing
