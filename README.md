@@ -1,11 +1,7 @@
 # Pir-Scanner
 High-Performance Infrastructure &amp; Network Discovery Toolkit
 
-
-High-Performance Infrastructure Discovery & Latency Analysis Toolkit
-
 Pir Scanner is a lightweight, high-performance Bash-based infrastructure scanning toolkit designed for network engineers, system administrators, security researchers, and infrastructure enthusiasts.
-
 The project focuses on discovering, validating, and benchmarking infrastructure endpoints across global cloud providers, CDN networks, and Iranian data center infrastructure. With a fast parallel scanning engine and intelligent result ranking, Pir Scanner helps identify responsive and low-latency network endpoints efficiently.
 
 
